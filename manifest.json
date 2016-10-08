@@ -1,0 +1,15 @@
+{
+
+  "manifest_version": 2,
+  "name": "speedy-google-music",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["*://play.google.com/music/listen*"],
+      "js": ["speedy-google-music.js"],
+      "css": ["speedy-google-music.css"]
+    }
+  ]
+
+}
