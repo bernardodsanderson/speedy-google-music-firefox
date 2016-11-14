@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Speedy Google Music",
-  "version": "1.5",
+  "version": "1.6",
 
   "description": "A Firefox add-on that makes Google Play Music faster and better",
   "homepage_url": "https://gitlab.com/bernardodsanderson/speedy-google-music-firefox",
