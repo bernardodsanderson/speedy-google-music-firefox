@@ -96,7 +96,7 @@ core-drawer-panel:not([narrow]) core-header-panel #music-content.material .g-con
   max-height: 100px !important;
 }
 paper-toast.x-scope.paper-toast-0 {
-  bottom: 100px !important;
+  bottom: 0px !important;
   top: inherit !important;
 }
 
@@ -142,4 +142,8 @@ body .goog-menu .goog-menuitem.selected .goog-menuitem-content:not([style-scope]
   border-bottom: none !important;
   padding-bottom: 5px !important;
   padding-top: 5px !important;
+}
+
+.song-table.tight .song-row [data-col="rating"][data-rating="4"], .song-table.tight .song-row [data-col="rating"][data-rating="5"] {
+    background: no-repeat url(sprites.png) -768px -448px !important;
 }
