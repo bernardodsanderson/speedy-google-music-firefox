@@ -8,4 +8,4 @@ Speedy Google Music is a set of css and js rules to make Google Play Music faste
 
 This extension is not affiliated with Google or Google Play Music.
 
-![screenshot](images/speedy-music-screenshot.png)
+![screenshot](https://lh3.googleusercontent.com/oJzX9HF0uPUmiFB_KkbVaXwmOFZx3uK26e1onViqyUPX6IfAbte6qe4WGLyHUDnD5vwIyIOG=s640-h400-e365-rw)
